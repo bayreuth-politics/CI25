@@ -15,3 +15,6 @@ nav_order: 2
 [Part 5](https://raw.githubusercontent.com/bayreuth-politics/CI25/main/docs/lectures/CI_25_Slides_Bayreuth_Part5.pdf){: .btn .btn-blue .mr-3}
 [Part 6](https://raw.githubusercontent.com/bayreuth-politics/CI25/main/docs/lectures/CI_25_Slides_Bayreuth_Part6.pdf){: .btn .btn-blue .mr-3}
 [Part 7](https://raw.githubusercontent.com/bayreuth-politics/CI25/main/docs/lectures/CI_25_Slides_Bayreuth_Part7.pdf){: .btn .btn-blue .mr-3}
+
+[Part 8](https://raw.githubusercontent.com/bayreuth-politics/CI25/main/docs/lectures/CI_25_Slides_Bayreuth_Part8.pdf){: .btn .btn-blue .mr-3}
+[Part 9](https://raw.githubusercontent.com/bayreuth-politics/CI25/main/docs/lectures/CI_25_Slides_Bayreuth_Part9.pdf){: .btn .btn-blue .mr-3}
